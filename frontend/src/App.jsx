@@ -23,7 +23,7 @@ function App() {
                         Habit tracker
                     </h1>
                     <p className="text-sm text-muted-foreground">
-                        If the button looks styled and the backend state shows up, the base is good.
+                        Track your daily habits and build positive routines.
                     </p>
                 </div>
 
