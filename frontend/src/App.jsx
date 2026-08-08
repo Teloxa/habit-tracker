@@ -23,12 +23,12 @@ function App() {
                         Habit tracker
                     </h1>
                     <p className="text-sm text-muted-foreground">
-                        Si el botón se ve con estilo y el estado del backend aparece, la base está bien.
+                        If the button looks styled and the backend state shows up, the base is good.
                     </p>
                 </div>
 
                 <Button onClick={() => window.alert('shadcn button works')}>
-                    Probar botón
+                    Try button
                 </Button>
 
                 <p className="text-sm text-muted-foreground">
